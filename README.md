@@ -17,3 +17,6 @@ Database: mongoDB
 
 # Compose 
 ![alt text](https://github.com/jcmalott/Blog/blob/master/pictures/Blog_compose.PNG)
+
+# Database 
+![alt text](https://github.com/jcmalott/Blog/blob/master/pictures/Blog_DB.PNG)
