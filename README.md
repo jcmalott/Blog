@@ -1,4 +1,4 @@
-Blog site that displays post that are stored in a database. User can also compose a post and add it to the database.
+Blog site that displays posts that are stored in a database. User can also compose a post and add it to the database.
 
 Using Express to navigate from one webpage to another.
 Database: mongoDB
